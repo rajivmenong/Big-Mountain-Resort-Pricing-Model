@@ -2,7 +2,7 @@
 
 ![Resort](https://user-images.githubusercontent.com/67468718/104138103-c3129580-5356-11eb-80db-6b62c122f29b.JPG)
 
-
+<img src="images/2.jpg?raw=true"/>
 
 
 # DataScienceGuidedCapstone
